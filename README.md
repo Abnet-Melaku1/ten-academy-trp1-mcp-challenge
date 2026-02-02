@@ -30,8 +30,9 @@ The goal is to configure my IDE with the **Tenx MCP Analysis server**, design an
 - `MCP-Setup-Report.md` — Detailed documentation of:
   - What I did
   - What worked
-  - What didn’t work / challenges
+  - What didn't work / challenges
   - Insights about how rules affect the agent
+- `EXPERIMENTS-LOG.md` — Detailed log of rules file iterations, test results, and experimentation process showing the evolution from v1.0 to v1.3
 
 ### How to Run / Use Tenx MCP in Cursor
 
